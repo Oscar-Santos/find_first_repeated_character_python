@@ -42,11 +42,7 @@ print(first_repeated_char('hello cool guys'))
 # terminal output: l
 
 print(first_repeated_char('cool weather'))
-# termianl output: o
+# terminal output: o
 ```
-
-
-
-![screenshot_1](https://drive.google.com/uc?id=1c_TSfShHJ9MLm0aD9huAJAZxFd6_lVNy)
 
 
