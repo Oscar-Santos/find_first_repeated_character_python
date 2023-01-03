@@ -10,4 +10,9 @@ Pseudocode 1:
 4) traverse from left to right to check if a letter / character repeats or not
 5) if letter / character repeats, increment count of repeating characters
 6) when the count becomes K, return the character
+
+Pseudocode 2:
+1) Create an empty hash.
+2) Scan each character of input string and insert values to each keys in the hash.
+3) When any character appears more than once, hash key value is increment by 1, and return the character.
 '''
