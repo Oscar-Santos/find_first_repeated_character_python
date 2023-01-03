@@ -21,6 +21,29 @@ Pseudocode 2:
 3) When any character appears more than once, hash key value is increment by 1, and return the character.
 ```
 
+#### Actual Code
+
+```
+def first_repeated_char(str):
+
+    hash = {}
+
+    for ch in str:
+        if ch in hash:
+            return ch;
+        else:
+            hash[ch] = 0
+    return ''
+
+print(first_repeated_char('geek app'))
+# terminal output: e
+
+print(first_repeated_char('hello cool guys'))
+# terminal output: l
+
+print(first_repeated_char('cool weather'))
+# termianl output: o
+```
 
 
 
