@@ -1,4 +1,4 @@
-
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ### Python Tech Challenge : 'Find the first repeated character in a string'
 
 #### Overview
