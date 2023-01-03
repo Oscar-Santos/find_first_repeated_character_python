@@ -33,3 +33,6 @@ print(first_repeated_char('geek app'))
 
 print(first_repeated_char('hello cool guys'))
 # terminal output: l
+
+print(first_repeated_char('cool weather'))
+# termianl output: o
