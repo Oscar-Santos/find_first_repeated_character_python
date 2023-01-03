@@ -16,3 +16,8 @@ Pseudocode 2:
 2) Scan each character of input string and insert values to each keys in the hash.
 3) When any character appears more than once, hash key value is increment by 1, and return the character.
 '''
+
+def first_repeated_char(str):
+
+    hash = {}
+    
