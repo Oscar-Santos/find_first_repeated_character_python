@@ -47,6 +47,6 @@ print(first_repeated_char('cool weather'))
 
 
 
-![screenshot_1](https://drive.google.com/file/d/1c_TSfShHJ9MLm0aD9huAJAZxFd6_lVNy)
+![screenshot_1](https://drive.google.com/uc?id=1c_TSfShHJ9MLm0aD9huAJAZxFd6_lVNy)
 
 
