@@ -20,4 +20,16 @@ Pseudocode 2:
 def first_repeated_char(str):
 
     hash = {}
-    
+
+    for ch in str:
+        if ch in hash:
+            return ch;
+        else:
+            hash[ch] = 0
+    return ''
+
+print(first_repeated_char('geek app'))
+# terminal output: e
+
+print(first_repeated_char('hello cool guys'))
+# terminal output: l
